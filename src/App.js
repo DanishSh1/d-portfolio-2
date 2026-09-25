@@ -119,7 +119,7 @@ function App() {
         <a href="https://github.com/Bandrailian/Iteration-3">
           <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" className='git-img'></img>
         </a>
-        <a href="https://drive.google.com/file/d/1GHWXG2TwA0YPu4z257jNTwtOxJ9XYldp/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/12mAwLOOIP-Y7pRZab_U4jkXjqgOGfQoa/view?usp=sharing">
           <img src="https://www.freeiconspng.com/uploads/resume-icon-png-4.png" className='resume-img'></img>
         </a>
       </div>
